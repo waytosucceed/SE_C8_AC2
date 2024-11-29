@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Cassidy ate a certain part of the watermelon. What fraction of the watermelon did she eat?<BR><img width='40%' src='./assests/images/1.jpg'>",
+        "options": [
+            "./optionImg/1.jpg",
+            "./optionImg/2.jpg",
+            "./optionImg/3.jpg",
+            "./optionImg/4.jpg"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Which type of fraction does the colored portion in the image represent?<BR><img width='50%' src='./assests/images/2.jpg'>",
+        "options": [
+            "Proper fraction",
+            "Improper fraction",
+            "Unit fraction",
+            "Both Proper and Unit fraction"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Which of the following option can be written as a mixed fraction?",
+        "options": [
+            "./optionImg/5.jpg",
+            "./optionImg/6.jpg",
+            "./optionImg/7.jpg",
+            "./optionImg/8.jpg"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "The fractions in both images, based on their respective shaded regions, represent _______.<BR><img width='70%' src='./assests/images/3.jpg'>",
+        "options": [
+            "Improper fractions",
+            "Unlike fractions",
+            "Like fractions",
+            "Unit fractions"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Which of the following is a proper fraction?",
+        "options": [
+            "./optionImg/9.jpg",
+            "./optionImg/10.jpg",
+            "./optionImg/11.jpg",
+            "./optionImg/12.jpg"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q6",
+        "question": "On converting the following fraction into a mixed fraction. What is the whole number ?<BR><img width='80%' src='./assests/images/33.png'>",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "3"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Which of the following fractions is an improper fraction and unit fraction at the same time?",
+        "options": [
+            "./optionImg/13.jpg",
+            "./optionImg/14.jpg",
+            "./optionImg/15.jpg",
+            "./optionImg/16.jpg"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Which of the following pairs of fractions are unlike fractions?",
+        "options": [
+            "./optionImg/17.jpg",
+            "./optionImg/18.jpg",
+            "./optionImg/19.jpg",
+            "./optionImg/20.jpg"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Which of the following is the correct proper fraction equivalent for<BR><img width='80%' src='./assests/images/34.png'>",
+        "options": [
+            "./optionImg/21.jpg",
+            "./optionImg/22.jpg",
+            "./optionImg/23.jpg",
+            "./optionImg/24.jpg"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q10",
+        "question": "A mixed fraction will always be a _____",
+        "options": [
+            "Proper fraction",
+            "Improper fraction",
+            "Unit fraction",
+            "can’t say"
+        ],
+        "correct": 1
+    }
+]
